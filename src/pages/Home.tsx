@@ -65,12 +65,12 @@ const Home = () => {
               <div className="relative">
                 <div className="absolute -inset-4 bg-gradient-to-r from-pink-400 via-purple-400 to-yellow-400 rounded-full opacity-20 animate-pulse"></div>
                 <img
-                  src="https://images.unsplash.com/photo-1535268647677-300dbf3d78d1?auto=format&fit=crop&w=400&h=400&q=80"
+                  src="https://wonder-day.com/wp-content/uploads/2022/03/wonder-day-avatar-memes-cats-70.jpg"
                   alt="Gatito adorable"
                   className="w-80 h-80 object-cover rounded-full shadow-2xl border-8 border-white/60 pet-image-glow relative z-10"
                 />
                 <div className="absolute -top-6 -right-6 bg-gradient-to-r from-yellow-400 to-orange-400 text-white px-6 py-3 rounded-full font-bold text-lg shadow-xl animate-bounce pet-glow-orange z-20">
-                  ¡Miau! 🐱💕
+                  ¡Hola Miau! 🐱💕
                 </div>
                 {/* Elementos decorativos alrededor de la imagen */}
                 <div className="absolute -bottom-2 -left-2 text-pink-400 text-xl animate-float">🎀</div>
