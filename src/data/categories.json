@@ -1,0 +1,23 @@
+
+[
+  {
+    "id": "perros",
+    "nombre": "Perros",
+    "slug": "perros"
+  },
+  {
+    "id": "gatos", 
+    "nombre": "Gatos",
+    "slug": "gatos"
+  },
+  {
+    "id": "otras-mascotas",
+    "nombre": "Otras Mascotas", 
+    "slug": "otras-mascotas"
+  },
+  {
+    "id": "liquidacion",
+    "nombre": "Liquidación",
+    "slug": "liquidacion"
+  }
+]

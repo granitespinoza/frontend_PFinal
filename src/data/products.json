@@ -1,0 +1,223 @@
+
+[
+  {
+    "id": 1,
+    "nombre": "Alimento Premium Canbo Adulto 15kg",
+    "marcaId": 1,
+    "categoriaId": "perros",
+    "precio": 89.90,
+    "precioOferta": 67.43,
+    "descuento": 25,
+    "img": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=400&h=400&fit=crop&crop=center",
+    "is_featured": true
+  },
+  {
+    "id": 2,
+    "nombre": "Snack Dental Proteggo 500g",
+    "marcaId": 2,
+    "categoriaId": "perros", 
+    "precio": 24.50,
+    "precioOferta": 19.60,
+    "descuento": 20,
+    "img": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=400&h=400&fit=crop&crop=center",
+    "is_featured": true
+  },
+  {
+    "id": 3,
+    "nombre": "Collar Antiparasitario Don Fermín",
+    "marcaId": 3,
+    "categoriaId": "perros",
+    "precio": 45.99,
+    "precioOferta": 32.19,
+    "descuento": 30,
+    "img": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=400&h=400&fit=crop&crop=center",
+    "is_featured": true
+  },
+  {
+    "id": 4,
+    "nombre": "Royal Canin Kitten 4kg",
+    "marcaId": 4,
+    "categoriaId": "gatos",
+    "precio": 109.90,
+    "precioOferta": null,
+    "descuento": 0,
+    "img": "https://images.unsplash.com/photo-1574144611937-0df059b5ef3e?w=400&h=400&fit=crop&crop=center",
+    "is_featured": true
+  },
+  {
+    "id": 5,
+    "nombre": "Hill's Science Diet Adult Cat",
+    "marcaId": 5,
+    "categoriaId": "gatos",
+    "precio": 78.50,
+    "precioOferta": 62.80,
+    "descuento": 20,
+    "img": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=400&h=400&fit=crop&crop=center",
+    "is_featured": true
+  },
+  {
+    "id": 6,
+    "nombre": "Arena Pro Plan para Gatos 10kg",
+    "marcaId": 6,
+    "categoriaId": "gatos",
+    "precio": 35.90,
+    "precioOferta": 25.13,
+    "descuento": 30,
+    "img": "https://images.unsplash.com/photo-1574144611937-0df059b5ef3e?w=400&h=400&fit=crop&crop=center",
+    "is_featured": true
+  },
+  {
+    "id": 7,
+    "nombre": "Juguete Pedigree Resistente",
+    "marcaId": 7,
+    "categoriaId": "perros",
+    "precio": 15.99,
+    "precioOferta": 11.99,
+    "descuento": 25,
+    "img": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=400&h=400&fit=crop&crop=center",
+    "is_featured": true
+  },
+  {
+    "id": 8,
+    "nombre": "Whiskas Pouch Salmón 12 unid",
+    "marcaId": 8,
+    "categoriaId": "gatos",
+    "precio": 28.90,
+    "precioOferta": 17.34,
+    "descuento": 40,
+    "img": "https://images.unsplash.com/photo-1574144611937-0df059b5ef3e?w=400&h=400&fit=crop&crop=center",
+    "is_featured": true
+  },
+  {
+    "id": 9,
+    "nombre": "Cama Ortopédica Canbo L",
+    "marcaId": 1,
+    "categoriaId": "perros",
+    "precio": 125.99,
+    "precioOferta": 75.59,
+    "descuento": 40,
+    "img": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=400&h=400&fit=crop&crop=center",
+    "is_featured": false
+  },
+  {
+    "id": 10,
+    "nombre": "Transportadora Proteggo M",
+    "marcaId": 2,
+    "categoriaId": "gatos",
+    "precio": 89.50,
+    "precioOferta": null,
+    "descuento": 0,
+    "img": "https://images.unsplash.com/photo-1574144611937-0df059b5ef3e?w=400&h=400&fit=crop&crop=center",
+    "is_featured": false
+  },
+  {
+    "id": 11,
+    "nombre": "Vitaminas Don Fermín Multi",
+    "marcaId": 3,
+    "categoriaId": "otras-mascotas",
+    "precio": 39.90,
+    "precioOferta": 31.92,
+    "descuento": 20,
+    "img": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=400&h=400&fit=crop&crop=center",
+    "is_featured": false
+  },
+  {
+    "id": 12,
+    "nombre": "Royal Canin Digestive Care",
+    "marcaId": 4,
+    "categoriaId": "perros",
+    "precio": 94.99,
+    "precioOferta": 66.49,
+    "descuento": 30,
+    "img": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=400&h=400&fit=crop&crop=center",
+    "is_featured": false
+  },
+  {
+    "id": 13,
+    "nombre": "Hill's Prescription Diet",
+    "marcaId": 5,
+    "categoriaId": "gatos",
+    "precio": 145.50,
+    "precioOferta": null,
+    "descuento": 0,
+    "img": "https://images.unsplash.com/photo-1574144611937-0df059b5ef3e?w=400&h=400&fit=crop&crop=center",
+    "is_featured": false
+  },
+  {
+    "id": 14,
+    "nombre": "Pro Plan Focus Puppy",
+    "marcaId": 6,
+    "categoriaId": "perros",
+    "precio": 72.90,
+    "precioOferta": 43.74,
+    "descuento": 40,
+    "img": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=400&h=400&fit=crop&crop=center",
+    "is_featured": false
+  },
+  {
+    "id": 15,
+    "nombre": "Pedigree DentaStix 28 unid",
+    "marcaId": 7,
+    "categoriaId": "liquidacion",
+    "precio": 42.99,
+    "precioOferta": 12.90,
+    "descuento": 70,
+    "img": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=400&h=400&fit=crop&crop=center",
+    "is_featured": false
+  },
+  {
+    "id": 16,
+    "nombre": "Whiskas Temptations 180g",
+    "marcaId": 8,
+    "categoriaId": "liquidacion",
+    "precio": 18.50,
+    "precioOferta": 16.65,
+    "descuento": 10,
+    "img": "https://images.unsplash.com/photo-1574144611937-0df059b5ef3e?w=400&h=400&fit=crop&crop=center",
+    "is_featured": false
+  },
+  {
+    "id": 17,
+    "nombre": "Hámster Food Premium 1kg",
+    "marcaId": 1,
+    "categoriaId": "otras-mascotas",
+    "precio": 22.90,
+    "precioOferta": 18.32,
+    "descuento": 20,
+    "img": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=400&h=400&fit=crop&crop=center",
+    "is_featured": false
+  },
+  {
+    "id": 18,
+    "nombre": "Jaula Grande Proteggo",
+    "marcaId": 2,
+    "categoriaId": "otras-mascotas",
+    "precio": 189.99,
+    "precioOferta": 132.99,
+    "descuento": 30,
+    "img": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=400&h=400&fit=crop&crop=center",
+    "is_featured": false
+  },
+  {
+    "id": 19,
+    "nombre": "Kit Limpieza Don Fermín",
+    "marcaId": 3,
+    "categoriaId": "liquidacion",
+    "precio": 55.90,
+    "precioOferta": 27.95,
+    "descuento": 50,
+    "img": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=400&h=400&fit=crop&crop=center",
+    "is_featured": false
+  },
+  {
+    "id": 20,
+    "nombre": "Royal Canin Maxi Adult 15kg",
+    "marcaId": 4,
+    "categoriaId": "liquidacion",
+    "precio": 129.90,
+    "precioOferta": 90.93,
+    "descuento": 30,
+    "img": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=400&h=400&fit=crop&crop=center",
+    "is_featured": false
+  }
+]
